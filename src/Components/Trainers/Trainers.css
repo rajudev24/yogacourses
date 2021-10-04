@@ -1,0 +1,9 @@
+.trainer-hero img{
+    width: 100%;
+}
+
+.trainers-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}

@@ -1,0 +1,19 @@
+.courses-hero img{
+    width: 100%;
+}
+.courses{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 10px;
+}
+.courses img{
+    width: 400px;
+    height: 400px;
+}
+
+.course-detail{
+    padding:10px;
+    border-radius: 10px;
+    margin: 5px;
+    box-shadow: 5px 5px 5px lightgrey;
+}

@@ -1,0 +1,10 @@
+
+.footer-container{
+    background-color: wheat;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    /* background-color: lightslategrey; */
+    padding: 40px;
+}

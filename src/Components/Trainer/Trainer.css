@@ -1,0 +1,12 @@
+.trainer-container{
+    margin: 30px;
+    padding: 5px;
+    border:1px solid lightgrey;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+.trainer-container img{
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+}

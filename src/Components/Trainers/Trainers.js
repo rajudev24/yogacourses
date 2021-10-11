@@ -13,8 +13,6 @@ const Trainers = () => {
 
     }, [])
 
-
-
     return (
         <div>
             <div className='trainer-hero'>
